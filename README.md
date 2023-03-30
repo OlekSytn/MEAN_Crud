@@ -1,6 +1,6 @@
 # MeanStackCrudApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0. and was forked by SusanoO-O's project.
 
 ## Development server
 
